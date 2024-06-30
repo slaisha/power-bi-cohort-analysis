@@ -7,10 +7,10 @@
     <img src="images/orders-order-svgrepo-com.svg" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Next-Gen Digital Sales Analysis Dashboard</h3>
+<h3 align="center">Subscriber Insights: Gaming Cohort Analysis Dashboard</h3>
 
   <p align="center">
-  The Power BI Digital Sales Insights Dashboard showcases dynamic sales performance insights, transforming raw data into actionable strategies.
+  This GitHub repository showcases a series of Power BI dashboards developed for a simulated gaming company. The dashboards are designed to analyze and visualize subscriber behavior, focusing on metrics such as active retention rates, churn rates, and reactivations. These insights are crucial for understanding subscriber dynamics and improving engagement strategies in the gaming industry.
 
   </p>
 </div>
@@ -21,10 +21,8 @@
 <details>
   <summary>Table of Contents</summary>
   <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#about-the-project">About the Project</a></li>
     <li><a href="#built-with">Built With</a></li>
-    </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#screenshots">Screenshots</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -37,8 +35,8 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-The Power BI Digital Sales Insights Dashboard is a comprehensive tool designed to provide in-depth analysis and visualization of digital sales performance. This project leverages the powerful capabilities of Power BI to turn raw data into actionable insights, helping organizations optimize their sales strategies and make data-driven decisions.
 
+The Power BI Gaming Subscriber Insights Dashboards are a specialized suite designed to provide detailed analysis and visualization of subscriber behavior in the gaming industry. This project harnesses the robust features of Power BI to transform complex subscriber data into actionable insights, aiding stakeholders in enhancing player engagement and retention. By offering a clear view of crucial metrics such as retention rates, churn rates, and reactivations, these dashboards empower teams to make informed, data-driven decisions to boost loyalty and growth in the competitive gaming market.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -46,17 +44,10 @@ The Power BI Digital Sales Insights Dashboard is a comprehensive tool designed t
 
 ### Built With
 ###### Data Sources and Tools
-* **Power BI**: The primary tool for data visualization and dashboard creation, offering robust features and capabilities for interactive and real-time data analysis.
-* **Adobe Analytics**: Used for real-time analytics and detailed segmentation across various marketing channels.
-* **Oracle SQL**: Used for querying and managing data in Oracle databases, ensuring efficient data retrieval and manipulation.
-* **BigQuery**: Employed for handling and analyzing large datasets, leveraging its powerful data warehousing capabilities.
-* **AWS S3**: Utilized for storing and accessing large volumes of data securely and efficiently.
-* **Dataflows**: Implemented for ETL processes, allowing for the transformation and preparation of data before it reaches Power BI.
-* **Amplitude**: Integrated for tracking user behaviors and analyzing product metrics.
-* **Qualtrics**: Used for collecting and analyzing customer feedback and survey data.
-* **Treasure Data**: Leveraged for managing and analyzing customer data, providing insights into customer behavior and engagement.
-* **Excel**: Applied for data preparation, initial analysis, and integration with Power BI.
-* **SharePoint**: Used for sharing and managing content, knowledge, and applications to empower teamwork.
+* **Power BI**: The primary tool for data visualization and dashboard creation, featuring advanced capabilities for interactive and real-time analysis.
+* **BigQuery**: Utilized for processing and analyzing large datasets, taking advantage of its powerful data warehousing features.
+* **dbt (data build tool)**: Employed for transforming data in the warehouse, enabling efficient and scalable analytics workflows.
+
 
 <!-- 
 * [React.js](https://reactjs.org/)
@@ -74,106 +65,80 @@ The Power BI Digital Sales Insights Dashboard is a comprehensive tool designed t
 <!-- SCREENSHOTS -->
 ## Screenshots
 
-This dashboard provides comprehensive insights into digital sales performance. Here are some use cases and examples of how you can utilize the dashboard:
 
-##### Sales Performance Analysis:
+- **Overview Title Page**: Introduces the main subscriber metrics in a comprehensive dashboard.
+- **Active Subscribers**: Displays the count and details of active subscribers on the platform.
+- **Retention Rate**: Highlights the proportion of subscribers who remain active over time.
+- **Net Churn Rate**: Illustrates the balance between new subscribers and those who have discontinued their service.
+- **Deactivations**: Provides insights into the number of deactivations, along with timing and trends.
+- **Reactivations**: Shows data on subscribers who have reactivated their accounts, assessing the success of re-engagement efforts.
 
-- Track and visualize sales metrics such as revenue, volume, and growth trends.
-- Filter data by product, region, and sales channel to gain detailed insights.
 
-##### Customer Behavior Insights:
-
-- Analyze customer behavior using integrated data from Amplitude and Qualtrics.
-- Identify key customer segments and their engagement levels.
-
-##### Data-Driven Decision Making:
-
-- Utilize predictive analytics to forecast sales trends.
-- Customize and drill down into specific data points for deeper analysis.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- Image Stack with GitHub Links -->
 <div align="center">
 
 <!-- Image with GitHub Link -->
-<b>Customer Journey KPI Overview</b> (1/8) 
+<b>Cohort Analysis Overview</b> (1/6) 
 
 <div>
-  <a href=" ">
-    <img src="images/Product-Cohort Analysis-1.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-cohort-analysis/blob/master/images/Product-Cohort-Analysis-1.png">
+    <img src="images/Product-Cohort-Analysis-1.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-<b>Digital Sales Dashboard</b>  (2/8) 
-
+<b>Active Subscribers</b>  (2/6) 
+<p>
 <!-- Image with GitHub Link -->
 <div>
-  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-02.png">
-    <img src="images/Saffron-Autos-02.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-cohort-analysis/blob/master/images/Product-Cohort-Analysis-2.png">
+    <img src="images/Product-Cohort-Analysis-2.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
-<b>Customer Satisfaction Survey Results</b>  (3/8) 
-
+<b>Retention Rate</b>  (3/6) 
+<p>
 <!-- Image with GitHub Link -->
 <div>
-  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-03.png">
-    <img src="images/Saffron-Autos-03.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-cohort-analysis/blob/master/images/Product-Cohort-Analysis-3.png">
+    <img src="images/Product-Cohort-Analysis-3.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
-<b>Dealer Feedback Survey Results</b>  (4/8) 
-
+<b>Net Churn Rate</b>  (4/6) 
+<p>
 <!-- Image with GitHub Link -->
 <div>
-  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-04.png">
-    <img src="images/Saffron-Autos-04.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-cohort-analysis/blob/master/images/Product-Cohort-Analysis-4.png">
+    <img src="images/Product-Cohort-Analysis-4.png" style="max-width: 100%; height: auto;">
   </a>
 </div> 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- Image with GitHub Link -->
-<b>App Analytics Overview</b>  (5/8) 
-
+<b>Deactivations</b>  (5/6) 
+<p>
 <div>
-  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-05.png">
-    <img src="images/Saffron-Autos-05.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-cohort-analysis/blob/master/images/Product-Cohort-Analysis-5.png">
+    <img src="images/Product-Cohort-Analysis-5.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- Image with GitHub Link -->
-<b>Analytics for EV Vehicles Webpages</b>  (6/8)
+<b>Reactivations</b>  (6/6)
+<p>
 <div>
-  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-06.png">
-    <img src="images/Saffron-Autos-06.png" style="max-width: 100%; height: auto;">
+  <a href="https://github.com/slaisha/power-bi-cohort-analysis/blob/master/images/Product-Cohort-Analysis-6.png">
+    <img src="images/Product-Cohort-Analysis-6.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- Image with GitHub Link -->
-<b>Analytics for EV Services Webpages</b>  (7/8) 
-
-<div>
-  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-07.png">
-    <img src="images/Saffron-Autos-07.png" style="max-width: 100%; height: auto;">
-  </a>
-</div>
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- Image with GitHub Link -->
-<b>Analytics for EV Incentives Webpages</b>  (8/8)
-<div>
-  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-08.png">
-    <img src="images/Saffron-Autos-08.png" style="max-width: 100%; height: auto;">
-  </a>
-</div>
-
-</div> <!-- End of Center Alignment -->
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
