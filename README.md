@@ -11,7 +11,7 @@
 
   <p align="center">
 
-This suite of Power BI dashboards for Omlet Game Studio delivers crucial insights into key subscriber metrics such as retention, churn, and reactivations. It provides a robust toolkit for monitoring subscriber counts, retention rates, net churn, deactivations, and the effectiveness of re-engagement strategies.
+This suite of Power BI dashboards equips Omlet Game Studio with essential tools to track key metrics like retention, churn, and reactivations, offering a detailed look at subscriber engagement.
 
   </p>
 </div>
