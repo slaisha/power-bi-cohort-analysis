@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/slaisha/power-bi-digital-sales">
-    <img src="images/sales.png" alt="Logo" width="80" height="80">
+  <a href="https://github.com/slaisha/power-bi-cohort-analysis">
+    <img src="images/orders-order-svgrepo-com.svg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Next-Gen Digital Sales Analysis Dashboard</h3>
@@ -99,8 +99,8 @@ This dashboard provides comprehensive insights into digital sales performance. H
 <b>Customer Journey KPI Overview</b> (1/8) 
 
 <div>
-  <a href="https://github.com/slaisha/power-bi-digital-sales/blob/master/images/Saffron-Autos-01.png">
-    <img src="images/Saffron-Autos-01.png" style="max-width: 100%; height: auto;">
+  <a href=" ">
+    <img src="images/Product-Cohort Analysis-1.png" style="max-width: 100%; height: auto;">
   </a>
 </div>
 
