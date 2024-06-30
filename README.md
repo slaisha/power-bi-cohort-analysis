@@ -10,7 +10,8 @@
 <h3 align="center">Subscriber Insights: Gaming Cohort Analysis Dashboard</h3>
 
   <p align="center">
-  This GitHub repository showcases a series of Power BI dashboards developed for a simulated gaming company. The dashboards are designed to analyze and visualize subscriber behavior, focusing on metrics such as active retention rates, churn rates, and reactivations. These insights are crucial for understanding subscriber dynamics and improving engagement strategies in the gaming industry.
+
+This suite of Power BI dashboards for Omlet Game Studio delivers crucial insights into key subscriber metrics such as retention, churn, and reactivations. It provides a robust toolkit for monitoring subscriber counts, retention rates, net churn, deactivations, and the effectiveness of re-engagement strategies.
 
   </p>
 </div>
@@ -35,8 +36,7 @@
 
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
-
-The Power BI Gaming Subscriber Insights Dashboards are a specialized suite designed to provide detailed analysis and visualization of subscriber behavior in the gaming industry. This project harnesses the robust features of Power BI to transform complex subscriber data into actionable insights, aiding stakeholders in enhancing player engagement and retention. By offering a clear view of crucial metrics such as retention rates, churn rates, and reactivations, these dashboards empower teams to make informed, data-driven decisions to boost loyalty and growth in the competitive gaming market.
+The Power BI Gaming Subscriber Insights Dashboards for Omlet Game Studio are specifically designed to analyze and visualize subscriber behavior in the gaming industry. Leveraging the comprehensive capabilities of Power BI, the project transforms complex data into clear, actionable insights, aiding stakeholders in boosting player engagement and retention. This strategic resource empowers teams to make informed decisions that enhance loyalty and drive growth in the competitive gaming landscape.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
