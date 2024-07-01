@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/slaisha/power-bi-cohort-analysis">
-    <img src="images/orders-order-svgrepo-com.svg" alt="Logo" width="80" height="80">
+    <img src="images/Cohort Thumbnail.png" alt="Logo" width="450">
   </a>
 
 <h3 align="center">Subscriber Insights: Gaming Cohort Analysis Dashboard</h3>
